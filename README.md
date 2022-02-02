@@ -1,2 +1,2 @@
 # WebviewURL
-Webview de prueba para BOLT
+Demo de una webview para dispositivo NewPOS
