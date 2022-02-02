@@ -1,2 +1,3 @@
 # WebviewURL
-Demo de una webview para dispositivo NewPOS
+Demo de una webview para dispositivo NewPOS con SDK de Bolt
+
